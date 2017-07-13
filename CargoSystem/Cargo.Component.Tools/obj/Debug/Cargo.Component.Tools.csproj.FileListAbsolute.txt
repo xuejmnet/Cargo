@@ -1,0 +1,8 @@
+C:\work\code\Cargo\CargoSystem\Cargo.Component.Tools\bin\Debug\Cargo.Component.Tools.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Component.Tools\bin\Debug\Cargo.Component.Tools.pdb
+C:\work\code\Cargo\CargoSystem\Cargo.Component.Tools\bin\Debug\Dapper.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Component.Tools\bin\Debug\MySql.Data.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Component.Tools\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Component.Tools\bin\Debug\Dapper.xml
+C:\work\code\Cargo\CargoSystem\Cargo.Component.Tools\obj\Debug\Cargo.Component.Tools.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Component.Tools\obj\Debug\Cargo.Component.Tools.pdb

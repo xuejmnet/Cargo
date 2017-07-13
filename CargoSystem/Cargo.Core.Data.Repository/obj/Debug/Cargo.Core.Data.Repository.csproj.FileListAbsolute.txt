@@ -1,0 +1,17 @@
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Cargo.Core.Data.Repository.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Cargo.Core.Data.Repository.pdb
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Cargo.Component.Tools.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Cargo.Core.Data.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Dapper.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\DapperExtensions.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\MySql.Data.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Cargo.Component.Tools.pdb
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Cargo.Core.Data.pdb
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Dapper.xml
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\DapperExtensions.pdb
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\obj\Debug\Cargo.Core.Data.Repository.csprojResolveAssemblyReference.cache
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\obj\Debug\Cargo.Core.Data.Repository.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data.Repository\obj\Debug\Cargo.Core.Data.Repository.pdb

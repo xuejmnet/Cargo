@@ -1,0 +1,14 @@
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\Cargo.Core.Data.dll.config
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\Cargo.Core.Data.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\Cargo.Core.Data.pdb
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\Cargo.Component.Tools.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\Newtonsoft.Json.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\MySql.Data.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\Cargo.Component.Tools.pdb
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\Newtonsoft.Json.xml
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\obj\Debug\Cargo.Core.Data.csprojResolveAssemblyReference.cache
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\obj\Debug\Cargo.Core.Data.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\obj\Debug\Cargo.Core.Data.pdb
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\DapperExtensions.dll
+C:\work\code\Cargo\CargoSystem\Cargo.Core.Data\bin\Debug\DapperExtensions.pdb
